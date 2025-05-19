@@ -48,16 +48,13 @@ The interface includes carefully crafted components:
 
 ## Technical Stack
 
-- **Language**: Kotlin
-- **Architecture**: MVVM
+- **Language**: Java
 - **UI Components**: Material Design components with custom styling
-- **Image Loading**: Glide library for efficient image handling
-- **Animation**: Custom transitions for smooth user experience
 
 ## Getting Started
 
 ### Prerequisites
-- Android Studio Arctic Fox (2020.3.1) or newer
+- Android Studio 
 - Minimum SDK: API 23 (Android 6.0)
 - Target SDK: API 33 (Android 13)
 
@@ -65,17 +62,6 @@ The interface includes carefully crafted components:
 1. Clone this repository: git clone (https://github.com/yashrao2607/Assignment.git)
 2. Open the project in Android Studio
 3. Sync Gradle and run the application on an emulator or physical device
-
-## Future Enhancements
-
-- Implement remaining clickable sections with appropriate screens
-- Add animations for smoother transitions between screens
-- Integrate with a mock backend for data persistence
-- Implement dark/light theme toggle
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
