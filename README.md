@@ -34,9 +34,8 @@ The app implements two key interactive features:
    - Real-time updates to the UI upon confirmation
 
 2. **Profile Picture Management**:
-   - Tapping the profile image allows users to select a new photo
+   - Tapping the pencil icon next to the user's name opens an edit dialog in it select photo option is present
    - Options for camera capture or gallery selection
-   - Image cropping and optimization for proper display
 
 ### UI Components
 
